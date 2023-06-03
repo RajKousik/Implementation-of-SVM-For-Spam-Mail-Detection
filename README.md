@@ -68,12 +68,12 @@ accuracy
 ```
 
 ## Output:
-![](output1.jpg)
-![](output2.jpg)
-![](output3.jpg)
-![](output4.jpg)
-![](output5.jpg)
-![](output6.jpg)
+![output](output1.jpg)
+![data.head()](output2.jpg)
+![data.info()](output3.jpg)
+![data.isnull().sum()](output4.jpg)
+![Y_prediction value](output5.jpg)
+![Accuracy value](output6.jpg)
 
 
 ## Result:
